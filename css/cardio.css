@@ -690,9 +690,8 @@ section {
 
 footer {
 	padding: 140px 0 40px;
-	background: url('/img/footer.jpg');
-	-webkit-background-size: cover;
-	background-size: cover;
+	background-color: #3A3A3A;
+	/* Replaced image with static graphite background */
 }
 
 footer .trial-button {
